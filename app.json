@@ -1,6 +1,7 @@
 {
   "name": "Shadowsocks+V2Ray-plugin Rapid deployment",
   "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
+  "repository": "https://github.com/headpaly/shadowsocks-heroku",
   "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
   "env": {
      "ENCRYPT": {
