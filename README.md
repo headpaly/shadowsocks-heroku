@@ -3,7 +3,7 @@
 
 Click the button below to deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?templete=https://github.com/headpaly/shadowsocks-heroku)
 
 ## 0. Attention
 
